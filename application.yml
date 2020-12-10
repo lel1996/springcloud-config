@@ -1,4 +1,5 @@
 spring:
   application:
     name: springconfig
+    version: 1
   
